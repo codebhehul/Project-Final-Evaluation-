@@ -1,7 +1,16 @@
 # Project-Final-Evaluation
-Abhishek Ghodekar - Cloud / Pyspark / Linear Regression ML Algo
-Bhehul Rajderkar - EDA Rate CSV / ML Modeling Knn-Regressor / Deployment on the Azure and Render
-Shoeb Akhtar Shaikh Jalil Ahmed -    Cloud / Pyspark / Rate.csv / Random Forest Algo
-Navidita kothawale - EDA Process On BusinessCostshareing and rate CSV files 
-Bhakti Jadhav -  Power Bi - Network.csv / BussinessCostSharing.csv - Analysis
-Madhusudan Khumbhar - Power- Bi / Netowrk.csv / ML analysis 
+Tasks Done:
+Data Sourcing - Bhehul
+Cleaning and EDA of Rate.csv using Pandas - Bhakti
+Cleaning and EDA of BenefitCostSharing.csv using Pandas - Nivedita
+Data loading on Cloud - Abhishek
+Data Bricks Cleaning using Pyspark - Shoeb
+Model Building: 
+Linear Regression - Bhakti
+Decision Tree - Madhusudan
+Random Forest - shoeb
+KNN Regressor- Bhehul
+Streamlit - Bhehul  
+Web Page Deployment - Abhishek
+PowerBi Dashboard - Madhusudan
+Challenges and Conculsion - Nivedita
